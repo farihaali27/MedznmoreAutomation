@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SuperAdminLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de3dbbb3-e45f-45d3-b3c7-f356704ef467</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e69eb137-fa46-4032-a9ee-11838ee50c2e</id>
+      <masked>false</masked>
+      <name>loginURL</name>
+   </variable>
+</TestCaseEntity>

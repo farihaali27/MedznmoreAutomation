@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Shipping Address_jss21</name>
+   <tag></tag>
+   <elementGuidId>f236c0d7-4a4e-4d38-b8b7-d0dc63d3e737</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiButtonBase-root.MuiIconButton-root.jss18.MuiCheckbox-root.MuiCheckbox-colorSecondary.selectCheckbox.MuiIconButton-colorSecondary > span.MuiIconButton-label > input.jss21</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss21</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-indeterminate</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;d-flex layout-root&quot;]/div[@class=&quot;main-section&quot;]/div[@class=&quot;route-root&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;bulk-orders-root&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-center&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5&quot;]/div[@class=&quot;MuiPaper-root jss9 MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;jss11&quot;]/div[@class=&quot;MuiTableContainer-root jss23&quot;]/table[@class=&quot;MuiTable-root undefined bulk-order-table MuiTable-stickyHeader&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root MuiTableRow-hover&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body selectCheckbox&quot;]/span[@class=&quot;MuiButtonBase-root MuiIconButton-root jss18 MuiCheckbox-root MuiCheckbox-colorSecondary selectCheckbox MuiIconButton-colorSecondary&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/input[@class=&quot;jss21&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div/table/tbody/tr/td/span/span/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span/span/input</value>
+   </webElementXpaths>
+</WebElementEntity>

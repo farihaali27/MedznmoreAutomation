@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FromDateSelector</name>
+   <tag></tag>
+   <elementGuidId>e6a55dff-5dc9-4be2-8376-e6050ce7ea06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[3]/div[2]/button[1]/span[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

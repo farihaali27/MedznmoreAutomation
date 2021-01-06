@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Row</name>
+   <tag></tag>
+   <elementGuidId>7430506d-37a1-40e3-9d8c-aabc952cf46f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
